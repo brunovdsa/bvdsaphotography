@@ -1,0 +1,28 @@
+{
+  "photos": [
+    {
+      "id": "1",
+      "src": "./src/assets/images/photo_1.jpg",
+      "title": "photo 1",
+      "alt": "photo 1 alt",
+      "description": "description of photo 1",
+      "location": "location of photo 1"
+    },
+    {
+      "id": "2",
+      "src": "./src/assets/images/photo_2.jpg",
+      "title": "photo 2",
+      "alt": "photo 2 alt",
+      "description": "description of photo 2",
+      "location": "location of photo 2"
+    },
+    {
+      "id": "3",
+      "src": "./src/assets/images/photo_3.jpg",
+      "title": "photo 3",
+      "alt": "photo 3 alt",
+      "description": "description of photo 3",
+      "location": "location of photo 3"
+    }
+  ]
+}
